@@ -1,1 +1,4 @@
+[submodule "frontend-react"]
+	path = frontend-react
+	url = https://github.com/izhor/Frontend-react
 
